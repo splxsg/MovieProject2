@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Blues\\AndroidStudioProjects\\MovieApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\movie_menu.xml",
+        "source": "C:\\Users\\Blues\\AndroidStudioProjects\\MovieApp\\app\\src\\main\\res\\menu\\movie_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blues\\AndroidStudioProjects\\MovieApp - Copy\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_share.xml",
+        "source": "C:\\Users\\Blues\\AndroidStudioProjects\\MovieApp - Copy\\app\\src\\main\\res\\menu\\menu_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blues\\AndroidStudioProjects\\MovieApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_share.xml",
+        "source": "C:\\Users\\Blues\\AndroidStudioProjects\\MovieApp\\app\\src\\main\\res\\menu\\menu_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blues\\AndroidStudioProjects\\MovieApp - Copy\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_detail.xml",
+        "source": "C:\\Users\\Blues\\AndroidStudioProjects\\MovieApp - Copy\\app\\src\\main\\res\\menu\\menu_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blues\\AndroidStudioProjects\\MovieApp - Copy\\app\\build\\intermediates\\res\\merged\\debug\\menu\\movie_menu.xml",
+        "source": "C:\\Users\\Blues\\AndroidStudioProjects\\MovieApp - Copy\\app\\src\\main\\res\\menu\\movie_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blues\\AndroidStudioProjects\\MovieApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_detail.xml",
+        "source": "C:\\Users\\Blues\\AndroidStudioProjects\\MovieApp\\app\\src\\main\\res\\menu\\menu_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blues\\AndroidStudioProjects\\MovieApp - Copy\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\Blues\\AndroidStudioProjects\\MovieApp - Copy\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blues\\AndroidStudioProjects\\MovieApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\Blues\\AndroidStudioProjects\\MovieApp\\app\\src\\main\\res\\menu\\menu_main.xml"
+    }
+]

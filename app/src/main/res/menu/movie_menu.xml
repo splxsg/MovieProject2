@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_pop"
+        android:title="@string/act_pop"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_re_date"
+        android:title="@string/act_re_date"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_fav"
+        android:title="@string/act_fav"
+        app:showAsAction="never" />
+</menu>

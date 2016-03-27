@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:fillViewport="true">
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/generalbackground"
+    android:id="@+id/detaillist"
+    android:layout_gravity="center_horizontal">
+
+
+
+    <TextView android:layout_width="match_parent"
+        android:id="@+id/detail_title"
+        android:layout_height="wrap_content"
+
+        android:layout_marginTop="10dip"
+        android:textSize="25sp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:text="TITLE"
+        android:gravity="center"
+        android:padding="40sp"
+        android:textColor="@android:color/white"
+         />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+            android:scaleType="centerCrop"
+
+        android:id="@+id/detail_image"
+            android:layout_weight="3"
+        android:layout_below="@+id/detail_title"
+        />
+
+        <TextView
+            android:layout_width="34dp"
+            android:id="@+id/avg_rate"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:gravity="left"
+            android:layout_marginTop="50dp"
+            android:text="Rate"
+            android:textColor="@android:color/white"
+            android:textSize="20dip" />
+
+        <ToggleButton
+            android:layout_width="32dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/Favbtn"
+            android:textOff=""
+            android:textOn=""
+            android:layout_weight="3"
+            android:button = "@android:drawable/btn_star"
+            android:onClick="onToggleStar"
+
+            android:background="@color/generalbackground" />
+    </LinearLayout>
+
+
+
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Trailer 1"
+        android:layout_weight="1"
+        android:id="@+id/trailer1" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Trailer 2"
+            android:layout_weight="1"
+            android:id="@+id/trailer2" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Trailer 3"
+            android:layout_weight="1"
+            android:id="@+id/trailer3" />
+
+    </LinearLayout>
+
+
+
+
+
+
+    <TextView android:layout_width="wrap_content"
+        android:id="@+id/detail_text"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dip"
+        android:layout_below="@+id/avg_rate"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:text="Description"
+        android:textColor="@android:color/white"
+        android:textSize="15dip" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:id="@+id/review_text"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dip"
+        android:layout_below="@+id/detail_image"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:text="Review"
+        android:textColor="@android:color/white" />
+
+</LinearLayout>
+</ScrollView>

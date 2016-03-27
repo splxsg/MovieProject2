@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Blues\\AndroidStudioProjects\\MovieApp - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\activity_main.xml",
+        "source": "C:\\Users\\Blues\\AndroidStudioProjects\\MovieApp - Copy\\app\\src\\main\\res\\layout-sw600dp\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blues\\AndroidStudioProjects\\MovieApp - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Blues\\AndroidStudioProjects\\MovieApp - Copy\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout-sw600dp\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blues\\AndroidStudioProjects\\MovieApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Blues\\AndroidStudioProjects\\MovieApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout-sw600dp\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Blues\\AndroidStudioProjects\\MovieApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\activity_main.xml",
+        "source": "C:\\Users\\Blues\\AndroidStudioProjects\\MovieApp\\app\\src\\main\\res\\layout-sw600dp\\activity_main.xml"
+    }
+]

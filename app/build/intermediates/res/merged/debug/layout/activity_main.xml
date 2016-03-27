@@ -1,0 +1,9 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/Fragment_Movie"
+    android:name="com.example.blues.movieapp.FragmentMovie"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context="com.example.blues.movieapp.FragmentMovie"
+    tools:ignore="MergeRootFrame" >
+</FrameLayout>

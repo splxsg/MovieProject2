@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="action_settings">Settings</string>
+    <string name="act_pop">Popularity</string>
+    <string name="act_re_date">Rate</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="act_fav">Favourite</string>
+    <string name="action_share">Share</string>
+</resources>
